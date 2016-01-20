@@ -4,7 +4,7 @@ package uilive
 
 import (
 	"fmt"
-	"github.com/mattn/go-isatty"
+	"github.com/escribano/go-isatty"
 	"syscall"
 	"unsafe"
 )
